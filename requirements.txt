@@ -2,6 +2,7 @@ streamlit
 pandas
 openpyxl
 numpy>=1.26.0
+xlrd
 
 
 
