@@ -1,5 +1,7 @@
 import streamlit as st
 import pandas as pd
+import numpy as np
+import openpyxl
 import glob
 import os
 import io
@@ -290,4 +292,5 @@ else:
 
 # Футер
 st.markdown("---")
+
 st.caption("Обработчик отчетов ИППСУ | Создано на Streamlit")
